@@ -1,8 +1,0 @@
-{
-  "short_name": "MC Roblist",
-  "name": "The Roblist (For MC servers)",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#ff6188",
-  "background_color": "#2d2a2e"
-}
